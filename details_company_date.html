@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Stock_Price</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+<body>
+<div class="container">
+    <h2>1ST_SOLUTION</h2>
+    <p>This will return all opening, closing, high, low for given company and date</p>
+    <form action = "{{ url_for('details_company_date') }}" method = "POST">
+      <div class="form-group">
+        <label for="name">Select Company Name :</label>
+        <select class="form-control" id="name" name="name">
+          <option hidden >Select Company Name</option>
+          <option value="AAL">AAL</option>
+          <option value="AAPL">AAPL</option>
+          <option value="ABB">ABB</option>
+          <option value="DELL">DELL</option>
+          <option value="MSFT">MSFT</option>
+        </select>
+      </div>
+      <div class="form-group">
+        <label for="d">Date(DD-MM-YYYY) :</label>
+        <input type="date" class="form-control" id="d" name="date">
+      </div>
+      <button type="submit" class="btn btn-default">Submit</button>
+    </form>
+  </div>
+</body>
+</html>

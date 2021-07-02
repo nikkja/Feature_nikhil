@@ -1,0 +1,208 @@
+2021-06-29 12:36:58,976:INFO: * Restarting with stat
+2021-06-29 12:37:00,776:WARNING: * Debugger is active!
+2021-06-29 12:37:00,787:INFO: * Debugger PIN: 981-894-917
+2021-06-29 12:37:01,863:INFO: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-29 12:37:22,646:INFO:Database opened successfully
+2021-06-29 12:37:22,684:INFO:Table created successfully
+2021-06-29 12:37:22,686:INFO:Database opened successfully
+2021-06-29 12:37:22,711:DEBUG:Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-06-29 12:37:24,197:DEBUG:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY_ADJUSTED&apikey=NQCFKOVGZASY3EZ9&symbol=MSFT HTTP/1.1" 200 None
+2021-06-29 12:37:24,553:DEBUG:Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-06-29 12:37:26,118:DEBUG:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY_ADJUSTED&apikey=NQCFKOVGZASY3EZ9&symbol=ABB HTTP/1.1" 200 None
+2021-06-29 12:37:26,476:DEBUG:Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-06-29 12:37:28,037:DEBUG:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY_ADJUSTED&apikey=NQCFKOVGZASY3EZ9&symbol=AAL HTTP/1.1" 200 None
+2021-06-29 12:37:28,057:DEBUG:Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-06-29 12:37:29,638:DEBUG:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY_ADJUSTED&apikey=NQCFKOVGZASY3EZ9&symbol=AAPL HTTP/1.1" 200 None
+2021-06-29 12:37:29,695:DEBUG:Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-06-29 12:37:30,280:DEBUG:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY_ADJUSTED&apikey=NQCFKOVGZASY3EZ9&symbol=DELL HTTP/1.1" 200 None
+2021-06-29 12:37:30,705:INFO:Records inserted successfully
+2021-06-29 12:37:30,745:INFO:127.0.0.1 - - [29/Jun/2021 12:37:30] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2021-06-29 12:37:31,673:INFO:127.0.0.1 - - [29/Jun/2021 12:37:31] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2021-06-29 12:37:31,683:INFO:127.0.0.1 - - [29/Jun/2021 12:37:31] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2021-06-29 12:37:31,717:INFO:127.0.0.1 - - [29/Jun/2021 12:37:31] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-06-29 12:37:31,831:INFO:127.0.0.1 - - [29/Jun/2021 12:37:31] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2021-06-29 12:37:31,874:INFO:127.0.0.1 - - [29/Jun/2021 12:37:31] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-06-29 12:40:26,873:INFO: * Restarting with stat
+2021-06-29 12:40:28,051:WARNING: * Debugger is active!
+2021-06-29 12:40:28,051:INFO: * Debugger PIN: 981-894-917
+2021-06-29 12:40:28,405:INFO: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-29 12:44:30,926:INFO:Database opened successfully
+2021-06-29 12:44:30,928:INFO:Table created successfully
+2021-06-29 12:44:30,930:INFO:Database opened successfully
+2021-06-29 12:44:30,939:DEBUG:Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-06-29 12:44:32,618:DEBUG:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY_ADJUSTED&apikey=NQCFKOVGZASY3EZ9&symbol=MSFT HTTP/1.1" 200 None
+2021-06-29 12:44:32,750:DEBUG:Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-06-29 12:44:34,018:DEBUG:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY_ADJUSTED&apikey=NQCFKOVGZASY3EZ9&symbol=ABB HTTP/1.1" 200 None
+2021-06-29 12:44:34,562:DEBUG:Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-06-29 12:44:35,824:DEBUG:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY_ADJUSTED&apikey=NQCFKOVGZASY3EZ9&symbol=AAL HTTP/1.1" 200 None
+2021-06-29 12:44:36,282:DEBUG:Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-06-29 12:44:37,605:DEBUG:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY_ADJUSTED&apikey=NQCFKOVGZASY3EZ9&symbol=AAPL HTTP/1.1" 200 None
+2021-06-29 12:44:37,827:DEBUG:Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-06-29 12:44:39,338:DEBUG:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY_ADJUSTED&apikey=NQCFKOVGZASY3EZ9&symbol=DELL HTTP/1.1" 200 None
+2021-06-29 12:44:39,425:INFO:Records inserted successfully
+2021-06-29 12:44:39,429:INFO:127.0.0.1 - - [29/Jun/2021 12:44:39] "GET /function1 HTTP/1.1" 200 -
+2021-06-29 12:44:47,058:INFO:127.0.0.1 - - [29/Jun/2021 12:44:47] "GET /function1 HTTP/1.1" 200 -
+2021-06-29 12:44:49,216:INFO:127.0.0.1 - - [29/Jun/2021 12:44:49] "GET /function1 HTTP/1.1" 200 -
+2021-06-29 12:44:49,491:INFO:127.0.0.1 - - [29/Jun/2021 12:44:49] "GET /function1 HTTP/1.1" 200 -
+2021-06-29 12:44:49,707:INFO:127.0.0.1 - - [29/Jun/2021 12:44:49] "GET /function1 HTTP/1.1" 200 -
+2021-06-29 12:44:49,911:INFO:127.0.0.1 - - [29/Jun/2021 12:44:49] "GET /function1 HTTP/1.1" 200 -
+2021-06-29 12:44:50,592:INFO:127.0.0.1 - - [29/Jun/2021 12:44:50] "GET /function1 HTTP/1.1" 200 -
+2021-06-29 12:44:50,842:INFO:127.0.0.1 - - [29/Jun/2021 12:44:50] "GET /function1 HTTP/1.1" 200 -
+2021-06-29 12:44:51,043:INFO:127.0.0.1 - - [29/Jun/2021 12:44:51] "GET /function1 HTTP/1.1" 200 -
+2021-06-29 12:44:51,226:INFO:127.0.0.1 - - [29/Jun/2021 12:44:51] "GET /function1 HTTP/1.1" 200 -
+2021-06-29 12:44:51,431:INFO:127.0.0.1 - - [29/Jun/2021 12:44:51] "GET /function1 HTTP/1.1" 200 -
+2021-06-29 12:45:50,832:INFO: * Restarting with stat
+2021-06-29 12:45:52,072:WARNING: * Debugger is active!
+2021-06-29 12:45:52,076:INFO: * Debugger PIN: 981-894-917
+2021-06-29 12:45:52,440:INFO: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-29 12:45:59,373:INFO:Database opened successfully
+2021-06-29 12:45:59,374:INFO:Table created successfully
+2021-06-29 12:45:59,375:INFO:Database opened successfully
+2021-06-29 12:45:59,381:DEBUG:Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-06-29 12:46:00,616:DEBUG:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY_ADJUSTED&apikey=NQCFKOVGZASY3EZ9&symbol=MSFT HTTP/1.1" 200 None
+2021-06-29 12:46:01,073:DEBUG:Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-06-29 12:46:03,158:DEBUG:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY_ADJUSTED&apikey=NQCFKOVGZASY3EZ9&symbol=ABB HTTP/1.1" 200 None
+2021-06-29 12:46:03,268:DEBUG:Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-06-29 12:46:04,697:DEBUG:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY_ADJUSTED&apikey=NQCFKOVGZASY3EZ9&symbol=AAL HTTP/1.1" 200 None
+2021-06-29 12:46:05,024:DEBUG:Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-06-29 12:46:06,360:DEBUG:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY_ADJUSTED&apikey=NQCFKOVGZASY3EZ9&symbol=AAPL HTTP/1.1" 200 None
+2021-06-29 12:46:06,800:DEBUG:Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-06-29 12:46:08,276:DEBUG:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY_ADJUSTED&apikey=NQCFKOVGZASY3EZ9&symbol=DELL HTTP/1.1" 200 None
+2021-06-29 12:46:08,356:INFO:Records inserted successfully
+2021-06-29 12:46:08,363:INFO:127.0.0.1 - - [29/Jun/2021 12:46:08] "GET /function1 HTTP/1.1" 200 -
+2021-06-29 12:49:30,954:INFO: * Restarting with stat
+2021-06-29 12:49:34,197:WARNING: * Debugger is active!
+2021-06-29 12:49:34,215:INFO: * Debugger PIN: 981-894-917
+2021-06-29 12:49:35,550:INFO: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-29 12:52:34,847:INFO:Database opened successfully
+2021-06-29 12:52:34,857:INFO:Table created successfully
+2021-06-29 12:52:34,860:INFO:Database opened successfully
+2021-06-29 12:52:34,877:DEBUG:Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-06-29 12:52:36,422:DEBUG:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY_ADJUSTED&apikey=NQCFKOVGZASY3EZ9&symbol=MSFT HTTP/1.1" 200 None
+2021-06-29 12:52:36,848:DEBUG:Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-06-29 12:52:38,144:DEBUG:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY_ADJUSTED&apikey=NQCFKOVGZASY3EZ9&symbol=ABB HTTP/1.1" 200 None
+2021-06-29 12:52:38,468:DEBUG:Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-06-29 12:52:39,693:DEBUG:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY_ADJUSTED&apikey=NQCFKOVGZASY3EZ9&symbol=AAL HTTP/1.1" 200 None
+2021-06-29 12:52:39,904:DEBUG:Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-06-29 12:52:41,304:DEBUG:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY_ADJUSTED&apikey=NQCFKOVGZASY3EZ9&symbol=AAPL HTTP/1.1" 200 None
+2021-06-29 12:52:41,740:DEBUG:Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-06-29 12:52:42,961:DEBUG:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY_ADJUSTED&apikey=NQCFKOVGZASY3EZ9&symbol=DELL HTTP/1.1" 200 None
+2021-06-29 12:52:43,411:INFO:Records inserted successfully
+2021-06-29 12:52:43,571:INFO:127.0.0.1 - - [29/Jun/2021 12:52:43] "GET /function1 HTTP/1.1" 200 -
+2021-06-29 12:53:47,449:ERROR:Error in retrieving operation
+Traceback (most recent call last):
+  File "c:\Users\nikhi\Desktop\nikk\nik\assignment.py", line 82, in function
+    return render_template("function.html", result = res)
+  File "C:\Users\nikhi\Desktop\nikk\nik\lib\site-packages\flask\templating.py", line 148, in render_template
+    ctx.app.jinja_env.get_or_select_template(template_name_or_list),
+  File "C:\Users\nikhi\Desktop\nikk\nik\lib\site-packages\jinja2\environment.py", line 1068, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+  File "C:\Users\nikhi\Desktop\nikk\nik\lib\site-packages\jinja2\environment.py", line 997, in get_template
+    return self._load_template(name, globals)
+  File "C:\Users\nikhi\Desktop\nikk\nik\lib\site-packages\jinja2\environment.py", line 958, in _load_template
+    template = self.loader.load(self, name, self.make_globals(globals))
+  File "C:\Users\nikhi\Desktop\nikk\nik\lib\site-packages\jinja2\loaders.py", line 125, in load
+    source, filename, uptodate = self.get_source(environment, name)
+  File "C:\Users\nikhi\Desktop\nikk\nik\lib\site-packages\flask\templating.py", line 59, in get_source
+    return self._get_source_fast(environment, template)
+  File "C:\Users\nikhi\Desktop\nikk\nik\lib\site-packages\flask\templating.py", line 95, in _get_source_fast
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: function.html
+2021-06-29 12:53:47,481:INFO:127.0.0.1 - - [29/Jun/2021 12:53:47] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2021-06-29 12:53:48,546:INFO:127.0.0.1 - - [29/Jun/2021 12:53:48] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2021-06-29 12:53:48,581:INFO:127.0.0.1 - - [29/Jun/2021 12:53:48] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2021-06-29 12:53:48,610:INFO:127.0.0.1 - - [29/Jun/2021 12:53:48] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-06-29 12:53:48,660:INFO:127.0.0.1 - - [29/Jun/2021 12:53:48] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2021-06-29 12:55:21,514:INFO: * Restarting with stat
+2021-06-29 12:55:22,968:WARNING: * Debugger is active!
+2021-06-29 12:55:22,975:INFO: * Debugger PIN: 981-894-917
+2021-06-29 12:55:23,575:INFO: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-29 12:55:34,135:INFO:Database opened successfully
+2021-06-29 12:55:34,142:INFO:Table created successfully
+2021-06-29 12:55:34,145:INFO:Database opened successfully
+2021-06-29 12:55:34,161:DEBUG:Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-06-29 12:55:35,471:DEBUG:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY_ADJUSTED&apikey=NQCFKOVGZASY3EZ9&symbol=MSFT HTTP/1.1" 200 None
+2021-06-29 12:55:35,707:DEBUG:Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-06-29 12:55:36,952:DEBUG:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY_ADJUSTED&apikey=NQCFKOVGZASY3EZ9&symbol=ABB HTTP/1.1" 200 None
+2021-06-29 12:55:37,371:DEBUG:Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-06-29 12:55:38,526:DEBUG:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY_ADJUSTED&apikey=NQCFKOVGZASY3EZ9&symbol=AAL HTTP/1.1" 200 None
+2021-06-29 12:55:38,749:DEBUG:Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-06-29 12:55:40,079:DEBUG:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY_ADJUSTED&apikey=NQCFKOVGZASY3EZ9&symbol=AAPL HTTP/1.1" 200 None
+2021-06-29 12:55:40,522:DEBUG:Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-06-29 12:55:41,714:DEBUG:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY_ADJUSTED&apikey=NQCFKOVGZASY3EZ9&symbol=DELL HTTP/1.1" 200 None
+2021-06-29 12:55:41,933:INFO:Records inserted successfully
+2021-06-29 12:55:41,955:INFO:127.0.0.1 - - [29/Jun/2021 12:55:41] "POST / HTTP/1.1" 200 -
+2021-06-29 12:56:02,942:INFO:127.0.0.1 - - [29/Jun/2021 12:56:02] "POST / HTTP/1.1" 200 -
+2021-06-29 12:56:48,503:INFO: * Restarting with stat
+2021-06-29 12:56:51,003:WARNING: * Debugger is active!
+2021-06-29 12:56:51,009:INFO: * Debugger PIN: 981-894-917
+2021-06-29 12:56:51,677:INFO: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-29 12:56:53,339:INFO:Database opened successfully
+2021-06-29 12:56:53,341:INFO:Table created successfully
+2021-06-29 12:56:53,342:INFO:Database opened successfully
+2021-06-29 12:56:53,349:DEBUG:Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-06-29 12:56:55,025:DEBUG:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY_ADJUSTED&apikey=NQCFKOVGZASY3EZ9&symbol=MSFT HTTP/1.1" 200 None
+2021-06-29 12:56:55,257:DEBUG:Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-06-29 12:56:56,857:DEBUG:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY_ADJUSTED&apikey=NQCFKOVGZASY3EZ9&symbol=ABB HTTP/1.1" 200 None
+2021-06-29 12:56:57,098:DEBUG:Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-06-29 12:56:58,411:DEBUG:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY_ADJUSTED&apikey=NQCFKOVGZASY3EZ9&symbol=AAL HTTP/1.1" 200 None
+2021-06-29 12:56:58,887:DEBUG:Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-06-29 12:57:00,145:DEBUG:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY_ADJUSTED&apikey=NQCFKOVGZASY3EZ9&symbol=AAPL HTTP/1.1" 200 None
+2021-06-29 12:57:00,607:DEBUG:Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-06-29 12:57:01,872:DEBUG:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY_ADJUSTED&apikey=NQCFKOVGZASY3EZ9&symbol=DELL HTTP/1.1" 200 None
+2021-06-29 12:57:02,125:INFO:Records inserted successfully
+2021-06-29 12:57:02,144:INFO:127.0.0.1 - - [29/Jun/2021 12:57:02] "POST / HTTP/1.1" 200 -
+2021-06-29 13:00:29,204:INFO: * Restarting with stat
+2021-06-29 13:00:31,198:WARNING: * Debugger is active!
+2021-06-29 13:00:31,203:INFO: * Debugger PIN: 981-894-917
+2021-06-29 13:00:31,899:INFO: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-29 13:00:49,981:INFO:Database opened successfully
+2021-06-29 13:00:49,982:INFO:Table created successfully
+2021-06-29 13:00:49,983:INFO:Database opened successfully
+2021-06-29 13:00:49,997:DEBUG:Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-06-29 13:00:51,440:DEBUG:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY_ADJUSTED&apikey=NQCFKOVGZASY3EZ9&symbol=MSFT HTTP/1.1" 200 None
+2021-06-29 13:00:51,670:DEBUG:Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-06-29 13:00:52,520:DEBUG:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY_ADJUSTED&apikey=NQCFKOVGZASY3EZ9&symbol=ABB HTTP/1.1" 200 None
+2021-06-29 13:00:52,743:DEBUG:Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-06-29 13:00:53,495:DEBUG:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY_ADJUSTED&apikey=NQCFKOVGZASY3EZ9&symbol=AAL HTTP/1.1" 200 None
+2021-06-29 13:00:53,532:DEBUG:Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-06-29 13:00:54,848:DEBUG:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY_ADJUSTED&apikey=NQCFKOVGZASY3EZ9&symbol=AAPL HTTP/1.1" 200 None
+2021-06-29 13:00:55,084:DEBUG:Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-06-29 13:00:56,519:DEBUG:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY_ADJUSTED&apikey=NQCFKOVGZASY3EZ9&symbol=DELL HTTP/1.1" 200 None
+2021-06-29 13:00:56,961:INFO:Records inserted successfully
+2021-06-29 13:00:57,033:INFO:127.0.0.1 - - [29/Jun/2021 13:00:57] "GET /function1 HTTP/1.1" 200 -
+2021-06-29 13:01:00,612:ERROR:Error in retrieving operation
+Traceback (most recent call last):
+  File "c:\Users\nikhi\Desktop\nikk\nik\assignment.py", line 76, in function
+    res = {field[i]: row[0][i] for i in range(4)}
+  File "c:\Users\nikhi\Desktop\nikk\nik\assignment.py", line 76, in <dictcomp>
+    res = {field[i]: row[0][i] for i in range(4)}
+IndexError: list index out of range
+2021-06-29 13:01:00,618:INFO:127.0.0.1 - - [29/Jun/2021 13:01:00] "POST / HTTP/1.1" 200 -
+2021-06-29 13:01:56,880:INFO:127.0.0.1 - - [29/Jun/2021 13:01:56] "GET /function1 HTTP/1.1" 200 -
+2021-06-29 13:02:00,564:INFO:127.0.0.1 - - [29/Jun/2021 13:02:00] "POST /function1 HTTP/1.1" 200 -
+2021-06-29 13:27:55,045:INFO:127.0.0.1 - - [29/Jun/2021 13:27:55] "[35m[1mGET /function2 HTTP/1.1[0m" 500 -
+2021-06-29 13:27:55,767:INFO:127.0.0.1 - - [29/Jun/2021 13:27:55] "GET /function2?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2021-06-29 13:27:55,771:INFO:127.0.0.1 - - [29/Jun/2021 13:27:55] "GET /function2?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2021-06-29 13:27:55,784:INFO:127.0.0.1 - - [29/Jun/2021 13:27:55] "GET /function2?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-06-29 13:27:55,809:INFO:127.0.0.1 - - [29/Jun/2021 13:27:55] "GET /function2?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2021-06-29 13:27:55,883:INFO:127.0.0.1 - - [29/Jun/2021 13:27:55] "GET /function2?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-06-29 13:31:32,013:INFO: * Restarting with stat
+2021-06-29 13:31:34,040:WARNING: * Debugger is active!
+2021-06-29 13:31:34,050:INFO: * Debugger PIN: 981-894-917
+2021-06-29 13:31:34,584:INFO: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-29 13:31:37,140:INFO:Database opened successfully
+2021-06-29 13:31:37,142:INFO:Table created successfully
+2021-06-29 13:31:37,144:INFO:Database opened successfully
+2021-06-29 13:31:37,155:DEBUG:Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-06-29 13:31:38,880:DEBUG:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY_ADJUSTED&apikey=NQCFKOVGZASY3EZ9&symbol=MSFT HTTP/1.1" 200 None
+2021-06-29 13:31:39,226:DEBUG:Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-06-29 13:31:40,801:DEBUG:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY_ADJUSTED&apikey=NQCFKOVGZASY3EZ9&symbol=ABB HTTP/1.1" 200 None
+2021-06-29 13:31:40,968:DEBUG:Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-06-29 13:31:42,200:DEBUG:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY_ADJUSTED&apikey=NQCFKOVGZASY3EZ9&symbol=AAL HTTP/1.1" 200 None
+2021-06-29 13:31:42,752:DEBUG:Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-06-29 13:31:44,321:DEBUG:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY_ADJUSTED&apikey=NQCFKOVGZASY3EZ9&symbol=AAPL HTTP/1.1" 200 None
+2021-06-29 13:31:44,374:DEBUG:Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-06-29 13:31:45,600:DEBUG:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY_ADJUSTED&apikey=NQCFKOVGZASY3EZ9&symbol=DELL HTTP/1.1" 200 None
+2021-06-29 13:31:46,338:INFO:Records inserted successfully
+2021-06-29 13:31:46,359:INFO:127.0.0.1 - - [29/Jun/2021 13:31:46] "GET /function2 HTTP/1.1" 200 -
